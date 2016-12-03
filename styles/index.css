@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.footer {
+  background: #444;
+  color: #fff;
+  margin-top: 15px;
+  padding: 30px;
+}
